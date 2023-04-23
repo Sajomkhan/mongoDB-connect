@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "643d9fa9f3466719812cfc06",
+        "title": "Fan",
+        "price": 180,
+        "desc": "Good quality Fan",
+        "createdAt": "2023-04-17T19:36:09.879Z",
+        "__v": 0
+    },
+    {
+        "_id": "643da040f3466719812cfc08",
+        "title": "Laptop Lenevo",
+        "price": 500,
+        "desc": "Laptop Lenevo Idea Pad-310",
+        "createdAt": "2023-04-17T19:38:40.141Z",
+        "__v": 0
+    },
+    {
+        "_id": "643da072f3466719812cfc0a",
+        "title": "Laptop Lenevo",
+        "price": 500,
+        "desc": "Laptop Lenevo Idea Pad-310",
+        "createdAt": "2023-04-17T19:39:30.506Z",
+        "__v": 0
+    },
+    {
+        "_id": "643da0a1f3466719812cfc0c",
+        "title": "Laptop Lenevo",
+        "price": 500,
+        "desc": "Laptop Lenevo Idea Pad-310",
+        "createdAt": "2023-04-17T19:40:17.342Z",
+        "__v": 0
+    },
+    {
+        "_id": "643da0b8f3466719812cfc0e",
+        "title": "Motor",
+        "price": 400,
+        "desc": "3 Phase Induction Motor",
+        "createdAt": "2023-04-17T19:40:40.834Z",
+        "__v": 0
+    },
+    {
+        "_id": "643da0ddf3466719812cfc10",
+        "title": "iPhone",
+        "price": 250,
+        "desc": "Smart Phone",
+        "createdAt": "2023-04-17T19:41:17.208Z",
+        "__v": 0
+    },
+    {
+        "_id": "643da70d8b88d22230f4b9bb",
+        "title": "Bag",
+        "price": 50,
+        "desc": "leather and out-belt bag",
+        "createdAt": "2023-04-17T20:07:41.555Z",
+        "__v": 0
+    },
+    {
+        "_id": "643ee8da4e5069ed3d576b82",
+        "title": "Car",
+        "price": 2000,
+        "desc": "A new model car",
+        "createdAt": "2023-04-18T19:00:42.815Z",
+        "__v": 0
+    },
+    {
+        "_id": "643eec574e5069ed3d576b86",
+        "title": "Calculator",
+        "price": 35,
+        "desc": "A Scientific Calculator",
+        "createdAt": "2023-04-18T19:15:35.912Z",
+        "__v": 0
+    }
+]
